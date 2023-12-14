@@ -4,6 +4,7 @@
 ## 소개
 ---
 ![프로필이미지](https://avatars.githubusercontent.com/u/144079863?v=4)
+![프로필이미지]([https://avatars.githubusercontent.com/u/144079863?v=4](https://postfiles.pstatic.net/MjAyMzA5MDdfNDEg/MDAxNjk0MDc1MDY5MjQ1.SaBb1oNYuoIV_6-62oQxvL9npzBq25OzJwpwlPQwL2Ug.MxswvCRT8ccl9T7hwLd2e3U6WtxnIWgNDFnXUFxdi8Yg.PNG.yellow02222/%EC%BA%A1%EC%B2%98.PNG?type=w773))
 - 이름: 이재원
 - 군필여부: 육군 병장 만기전역
 - 취미: 헬스, 게임, 볼링, 맛집 평가
